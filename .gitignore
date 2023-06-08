@@ -20,18 +20,6 @@
 /rc_out_PC_pure/
 /*_package/
 
-# Ignore solutions and compiled binaries - these are re-generated when setting up the project
-solutions/
-bin/
-
-# Ignore the editor and log backups
-editor/
-logbackups/
-
-# Ignore all user profiles / files
-user/
-user(*)/
-
 # Code Editors
 .idea/
 .vscode/
