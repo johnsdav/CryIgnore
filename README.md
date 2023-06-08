@@ -9,6 +9,8 @@ module in CryEngine with git.
 These files include any resources created by the resource compiler which are next text based. Examples include compiled
 texture files, animation files and databases, and compressed archives.
 
+For more information see: https://docs.cryengine.com/display/CEMANUAL/Asset+Types
+
 ```text
 *.dba filter=lfs diff=lfs merge=lfs -text
 *.pak filter=lfs diff=lfs merge=lfs -text
