@@ -18,7 +18,7 @@
 /[Tt]emp/
 /[Ee]ditor/
 /rc_out_PC_pure/
-/(*)_package/
+/*_package/
 
 # Ignore solutions and compiled binaries - these are re-generated when setting up the project
 solutions/
